@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/practica/LABA_3/lab_3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\laba3.dir\\main.cpp.obj -c C:\\practica\\LABA_3\\lab_3\\main.cpp",
+  "file": "C:\\practica\\LABA_3\\lab_3\\main.cpp",
+  "output": "CMakeFiles\\laba3.dir\\main.cpp.obj"
+}
+]
